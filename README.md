@@ -40,8 +40,10 @@ You will need to navigate to this location on the umich#flux endpoint:
 This is the url for the globus web portal to get started:  
 https://www.globus.org/app/login
 
-Extra Hadoop and Spark training slides are available here:  
-https://tinyurl.com/y2flygjn/
+Extra Hadoop and Spark training slides are available here: 
+
+https://tinyurl.com/vyyhqv3
+
 
 And here:  
 https://github.com/caocscar/workshops/blob/master/pyspark/pyspark.md
