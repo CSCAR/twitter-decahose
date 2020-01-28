@@ -1,7 +1,7 @@
 # Twitter Decahose Access for University of Michigan
 
 Hello,  
-At this time, it is possible to process the twitter decahose data set with Flux, Great Lakes, or the Cavium Hadoop and Spark service. You may also transfer the files using the Globus high speed file transfer service.
+At this time, it is possible to process the twitter decahose data set with Great Lakes, or the Cavium Hadoop and Spark service. You may also transfer the files using the Globus high speed file transfer service.
 
 Please note that there is no charge for usage of the Cavium Hadoop service.
 
