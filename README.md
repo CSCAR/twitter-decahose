@@ -12,14 +12,8 @@ Instructions on each aspect are below.
 CSCAR's documentation on how to process the twitter decahose data is located here:  
 https://github.com/caocscar/twitter-decahose-pyspark
 
-To access the data on flux, it is located here:  
+To access the data on Great Lakes, you may find it located here:  
 `/nfs/turbo/twitter-decahose/decahose/raw`
-
-The Flux in 10 Easy Steps guide is located here:  
-https://arc-ts.umich.edu/flux-user-guide/
-
-To order a Flux account please fill out the form located here:  
-https://arc-ts.umich.edu/flux/
 
 If you wish to use a Cavium Hadoop account, please send email to hpc-support@umich.edu asking for a cavium hadoop account.
 
