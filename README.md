@@ -14,6 +14,9 @@ https://github.com/caocscar/twitter-decahose-pyspark
 
 To access the data on Great Lakes, you may find it located here:  
 `/nfs/turbo/twitter-decahose/decahose/raw`
+and
+`/nfs/locker/twitter-decahose-locker`
+
 
 If you wish to use a Cavium Hadoop account, please send email to hpc-support@umich.edu asking for a cavium hadoop account.
 
@@ -22,6 +25,8 @@ https://arc-ts.umich.edu/cavium/user-guide/
 
 The location in HDFS on Cavium Hadoop is here:  
 `/var/twitter/decahose/raw`
+and
+`/data/twitter/decahose/parquet`
 
 An example of processing the data with spark:
 ```python
