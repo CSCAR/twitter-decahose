@@ -39,7 +39,7 @@ twitter = sqlC.read.json("/var/twitter/decahose/raw/decahose.2018-08*")
 
 Globus info:
 
-You will need to navigate to this location on the umich#flux endpoint:  
+You will need to navigate to this location on the umich#greatlakes or umich#flux endpoint:  
 `/nfs/turbo/twitter-decahose/decahose/raw` or `/nfs/locker/twitter-decahose-locker`
 
 This is the url for the globus web portal to get started:  
