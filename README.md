@@ -1,6 +1,4 @@
 # Twitter Decahose Access for University of Michigan
-
-Hello,  
 At this time, it is possible to process the twitter decahose data set with Great Lakes, or the Cavium Hadoop and Spark service. You may also transfer the files using the Globus high speed file transfer service.
 
 Please note that there is no charge for usage of the Cavium Hadoop service.
@@ -37,18 +35,15 @@ sqlC = SQLContext(sc)
 twitter = sqlC.read.json("/var/twitter/decahose/raw/decahose.2018-08*")
 ```
 
-Globus info:
-
+**Globus info:**  
 You will need to navigate to this location on the umich#greatlakes or umich#flux endpoint:  
 `/nfs/turbo/twitter-decahose/decahose/raw` or `/nfs/locker/twitter-decahose-locker`
 
 This is the url for the globus web portal to get started:  
 https://www.globus.org/app/login
 
-Extra Hadoop and Spark training slides are available here: 
-
+Extra Hadoop and Spark training slides are available here:  
 https://tinyurl.com/vyyhqv3
-
 
 And here:  
 https://github.com/caocscar/workshops/blob/master/pyspark/pyspark.md
