@@ -15,8 +15,6 @@ To access the data on Great Lakes, you may find it located here:
 and
 `/nfs/locker/twitter-decahose-locker`
 
-You can check the date range availabililty of the data on Great Lakes via this [calendar chart](https://observablehq.com/@caocscar/calendar-view). You can also view the number of tweets for days where it is available.
-
 ### Cavium
 If you wish to use a Cavium Hadoop account, please send email to hpc-support@umich.edu asking for a cavium hadoop account.
 Please note that there is no charge for usage of the Cavium Hadoop service.
@@ -28,6 +26,9 @@ The location in HDFS on Cavium Hadoop is here:
 `/var/twitter/decahose/raw`
 and
 `/data/twitter/decahose/parquet`
+
+### Data Availability
+You can check the date range availabililty of the data on Great Lakes and Cavium via this [calendar chart](https://observablehq.com/@caocscar/calendar-view). You can also view the number of tweets for days where it is available.
 
 ### Example
 An example of processing the data with spark:
