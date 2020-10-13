@@ -63,4 +63,4 @@ And the Slurm guide is here:
 https://arc-ts.umich.edu/greatlakes/slurm-user-guide/
 
 ### Contact Info
-If you have any questions or issues, you can contact Seth Meyer (smeyer) or Alex Cao (caoa).
+If you have any questions or issues, you can contact Seth Meyer (smeyer) or Andrew Hlynka (ahlynka).
